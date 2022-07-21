@@ -30,7 +30,7 @@
     "soundcloud-downloader": "^0.2.4",
     "ytdl-core": "^4.4.5",
     "ytdl-core-discord": "^1.2.5",
-    "@discordjs/opus": "^0.3.2",
+    "@discordjs/opus": "^0.8.0",
     "ffmpeg-static": "^4.2.3",
     "lyrics-finder": "^21.0.5",
     "opusscript": "0.0.7",
